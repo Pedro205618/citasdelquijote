@@ -23,6 +23,8 @@ body {
   height: auto;
   display: block;
   margin: 0 auto 1rem;
+
+  box-shadow: 0 4px 10px rgba(0,0,0,0.25);
 }
 
 h1 {
