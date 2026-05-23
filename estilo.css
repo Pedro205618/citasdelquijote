@@ -29,7 +29,8 @@ h2 {
 }
 
 blockquote {
-  padding: 0.2rem 0.4rem;
+  margin: 2rem 0;
+  padding: 1.2rem 1.4rem;
   border-left: 5px solid #8b6f47;
   background: #fff8e8;
   font-size: 1.15rem;
@@ -80,7 +81,7 @@ a:hover {
   }
 
   blockquote {
-    font-size: 0.05rem;
+    font-size: 1.05rem;
     padding: 1rem;
   }
 
