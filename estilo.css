@@ -85,7 +85,8 @@ a:hover {
   }
 
   .controles {
-    flex-direction: column;
+    flex-direction: row;
+    gap: 6px;
   }
 
   .controles a {
