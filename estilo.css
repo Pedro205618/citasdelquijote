@@ -90,7 +90,8 @@ a:hover {
   }
 
   .controles a {
-    width: 100%;
-    box-sizing: border-box;
+    flex: 1;
+    padding: 8px 6px;
+    font-size: 0.9rem;
   }
 }
