@@ -70,6 +70,23 @@ a:hover {
   text-decoration: underline;
 }
 
+.volver-blog {
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.volver-blog a {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  font-size: 1.1rem;
+  color: #5d3f1d;
+  text-decoration: none;
+}
+
+.volver-blog a:hover {
+  text-decoration: underline;
+}
+
 .controles {
   display: flex;
   justify-content: space-between;
